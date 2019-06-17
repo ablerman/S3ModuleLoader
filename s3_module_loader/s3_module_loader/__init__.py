@@ -1,1 +1,1 @@
-from s3_finder import S3Finder
+from .s3_finder import S3Finder
